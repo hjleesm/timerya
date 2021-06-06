@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bd2dbc1.chunk.css",
+    "main.js": "/static/js/main.ea0085e7.chunk.js",
+    "main.js.map": "/static/js/main.ea0085e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7d8e7dc7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7d8e7dc7.js.map",
+    "static/js/2.4a665281.chunk.js": "/static/js/2.4a665281.chunk.js",
+    "static/js/2.4a665281.chunk.js.map": "/static/js/2.4a665281.chunk.js.map",
+    "static/js/3.627c7cc0.chunk.js": "/static/js/3.627c7cc0.chunk.js",
+    "static/js/3.627c7cc0.chunk.js.map": "/static/js/3.627c7cc0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6bd2dbc1.chunk.css.map": "/static/css/main.6bd2dbc1.chunk.css.map",
+    "static/js/2.4a665281.chunk.js.LICENSE.txt": "/static/js/2.4a665281.chunk.js.LICENSE.txt",
+    "static/media/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.969642b4.svg": "/static/media/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.969642b4.svg",
+    "static/media/google-play-badge.f902960a.png": "/static/media/google-play-badge.f902960a.png",
+    "static/media/screenshoot.e71c779e.png": "/static/media/screenshoot.e71c779e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d8e7dc7.js",
+    "static/js/2.4a665281.chunk.js",
+    "static/css/main.6bd2dbc1.chunk.css",
+    "static/js/main.ea0085e7.chunk.js"
+  ]
+}
